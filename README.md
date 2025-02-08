@@ -10,3 +10,5 @@ A simple blog website built using Flask, allowing users to create, read, and int
 - Write and read comment for the post
 
 
+## How a blog will look
+![App Preview](https://github.com/Abstroar/abhilaksh_blogs/issues/1#issue-2839712673)
